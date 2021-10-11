@@ -12,7 +12,7 @@ if %ERRORLEVEL% equ 0 (
   
   :: Change this!
   :: https://raw.githubusercontent.com/[Your GitHub username]/rdprig/master/config.json
-  @powershell wget https://raw.githubusercontent.com/Sueqkjs/rdprig/master/config.json -UseBasicParsing -OutFile config.json
+  @powershell wget https://raw.githubusercontent.com/BreadIsPan/rdprig/master/config.json -UseBasicParsing -OutFile config.json
   
   xmrig.exe
 ) else (
