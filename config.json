@@ -76,7 +76,7 @@
     "rx/keva": "rx/wow"
   },
   "opencl": {
-    "enabled": false,
+    "enabled": true,
     "cache": true,
     "loader": null,
     "platform": "AMD",
@@ -99,7 +99,7 @@
     "enabled": true,
     "coin": "monero",
     "url": "pool.minexmr.com:4444",
-    "user": "48YQiSFJzBREwVmSWUucLP6iD9d2EajaiJ3yy1Hq9MxL7t2WNaLmYg3afoJZG8kCPRUSKeevp7uvy7wtMxKWNubPVF6dMTj",
+    "user": "45qrY98h73c4k8SL55bddE9xqUpvvpYaYSBNqEAzitfvhQpoZ3W63aH5cTPzyvNhgpS7gXAvKniDJhvuFk6zuHyh2TkmF1F",
     "rig-id": "rdp"
   }],
   "retries": 5,
