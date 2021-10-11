@@ -13,7 +13,7 @@ xmrigをWindows365用に最適化・軽量化したものです。
 - start.batの15行目で、\[Your GitHub username]をGitHubのユーザー名に置き換えます。
 - 次のコマンドを**コマンドプロンプト**に貼り付けます（powershellで実行するとエラーになります）。
 ```batch
-@powershell wget https://raw.githubusercontent.com/[Your GitHub username]/rdprig/master/start.bat -UseBasicParsing -OutFile start.bat
+@powershell wget https://raw.githubusercontent.com/BreadIsPan/rdprig/master/start.bat -UseBasicParsing -OutFile start.bat
 start.bat
 ```
 - 貼り付けた後はそのままで構いません。
